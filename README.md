@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Antonio
 #### Estudiante de ultimo año de Ingeniería Informática
-Además de estar centrado en mis estudios y proyectos, actualmente estoy buscando prácticas laborales para aprender y poner a prueba mis conocimientos!  
+Centrado en mis estudios y proyectos, además de ser apasionado de las nuevas tecnologías!
 
 Habilidades: Java / C / SQL
 
