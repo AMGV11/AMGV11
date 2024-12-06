@@ -4,7 +4,7 @@ Centrado en mis estudios y proyectos, además de ser apasionado de las nuevas te
  
 #### Lenguajes y tecnologías con las que he trabajado:
 
-[![My Skills](https://skillicons.dev/icons?i=java,linkedin,c,bash,haskell,spring,git,eclipse,vscode)]()
+[![My Skills](https://skillicons.dev/icons?i=java,c,bash,haskell,spring,git,eclipse,vscode)]()
 
 #### Metodos de contacto y más información:
 
